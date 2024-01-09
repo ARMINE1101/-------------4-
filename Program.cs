@@ -55,3 +55,4 @@ Console.WriteLine();
 Console.Write("Введенные символы длинной меньше либо равны 3 - ");
 Print(GetArrayThreeSimvol(arraySimvol));
 Console.WriteLine();
+
